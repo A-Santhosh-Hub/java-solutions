@@ -1,0 +1,15 @@
+import java.util.*;
+class Main{
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter The Number:-");
+        int num=in.nextInt();
+        if(num%3==0&&num%5==0){
+            System.out.println("This Number Divisible by 3 and 5 ");
+            System.out.println("And It's Maybe a Odd Number ");
+        }else if(num%2==0) {
+            System.out.println("This Number Divisible by 2");
+            System.out.println(num +" It's Maybe a Even Number");
+        }
+    }
+}
