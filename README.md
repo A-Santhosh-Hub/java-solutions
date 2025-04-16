@@ -4,5 +4,6 @@ Basic Java program 2025
 3. Create Odd and Even numbers
 4. Table
 5. Create multiple tables
+6. Vote Eligible or Not in Java
 
 
